@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # cloud
 all cloud resource are here
-=======
 ## Getting Started
 
 -   STEP1 - Login to AWS console and create EC2 instance
@@ -57,4 +55,3 @@ pm2 start server.js --name=BackendAPI
 ```bash
 run: pm2 restart BackendAPI
 ```
->>>>>>> 835256d (test node project for ci cd)
